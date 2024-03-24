@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Pandey</h1>
 <h3 align="center">A passionate frontend and Backend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1sv1-5RrFqO7mRi8rjgwT_&ust=1711352721729000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjYpuKzjIUDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1sv1-5RrFqO7mRi8rjgwT_&ust=1711352721729000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjYpuKzjIUDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaspandey1508&label=Profile%20views&color=0e75b6&style=flat" alt="vikaspandey1508" /> </p>
 
