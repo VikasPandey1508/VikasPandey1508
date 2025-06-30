@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Pandey</h1>
-<h3 align="center">A passionate frontend and Backend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer in Java from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1sv1-5RrFqO7mRi8rjgwT_&ust=1711352721729000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjYpuKzjIUDFQAAAAAdAAAAABAQ">
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React Js and Java Script**
 
-- 💬 Ask me about **C, C++, Python, DSA, Cloud Computing**
+- 💬 Ask me about **Java,oops,collection JDBC,Hibernate,JSP,Spring Core,Spring Boot,Spring MVC,SQL,HTML,CSS,**
 
-- 📫 How to reach me **info4vikaspandey@gmail.com**
+- 📫 How to reach me **vikaspandey63065@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
